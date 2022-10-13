@@ -8,5 +8,17 @@
   },
   "author": "Ilyxa",
   "license": "ISC",
-  "description": "my first file"
+  "description": "my first file",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlyaFyedorov/my-new-file.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/IlyaFyedorov/my-new-file/issues"
+  },
+  "homepage": "https://github.com/IlyaFyedorov/my-new-file#readme"
 }
