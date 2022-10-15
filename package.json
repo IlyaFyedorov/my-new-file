@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/IlyaFyedorov/my-new-file/issues"
   },
-  "homepage": "https://github.com/IlyaFyedorov/my-new-file#readme"
+  "homepage": "https://github.com/IlyaFyedorov/my-new-file#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
 }
